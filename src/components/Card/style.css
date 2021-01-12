@@ -17,3 +17,22 @@
   left: 25%;
   top: 25%;
 }
+#workprofile2 img {
+  height: 300px;
+}
+#workprofile h5 {
+  color: white;
+}
+#workprofile2 h5 {
+  color: white;
+}
+
+#workprofile :hover {
+  border-color: aqua;
+  height: 170px;
+}
+
+.thumbnail :hover {
+  border-color: aqua;
+  height: 320px;
+}
