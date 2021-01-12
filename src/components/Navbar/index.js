@@ -29,7 +29,7 @@ function Navbar() {
                 to="/project"
                 className={window.location.pathname === "/discover" ? "nav-link active" : "nav-link"}
               >
-                Discover
+                Projects
               </Link>
             </li>
           </ul>
