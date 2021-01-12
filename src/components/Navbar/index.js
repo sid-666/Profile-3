@@ -8,7 +8,7 @@ function Navbar() {
     <nav className="header">
       <div className="top-bar" id="example-menu">
         <div className="top-bar-left">
-          <h3>Profile</h3>
+          <h3>Siddharth Dhananjay</h3>
         </div>
         <div className="top-bar-right">
           <ul className="dropdown menu" data-dropdown-menu>
